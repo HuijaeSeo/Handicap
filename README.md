@@ -1,5 +1,6 @@
-﻿# Team Handicap
-##**참가자**
+﻿# Team Handicap 👩‍🦽👨‍🦽
+##
+**참가자**
 - HuijaeSeo
 - Taehyun Ha
 ## 목표
