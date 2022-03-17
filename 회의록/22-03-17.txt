@@ -1,0 +1,6 @@
+Spring Initializr Settings
+Project: Maven Project
+Language: Java
+Spring Boot: 2.6.4
+Packaging: Jar
+Java: 8
