@@ -1,6 +1,14 @@
-Spring Initializr Settings
-Project: Maven Project
-Language: Java
-Spring Boot: 2.6.4
-Packaging: Jar
-Java: 8
+22-03-17-목
+20:30 - 23:00 (KST)
+
+1. GIT 공부 (https://youtu.be/Z9dvM7qgN9s) (Seo)
+2. Spring boot Maven 기본 설정 (Ha)
+	- Spring Initializr Settings
+	- Project: Maven Project
+	- Language: Java
+	- Spring Boot: 2.6.4
+	- Packaging: Jar
+	- Java: 8
+3. 협업 툴 선정
+	- 카카오톡 팀 채팅 개설
+	- 티스토리 팀 블로그 개설 예정
