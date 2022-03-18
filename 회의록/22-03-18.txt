@@ -1,0 +1,19 @@
+22-03-18-금
+21:00 - 23:00 (KST)
+
+1. 프로젝트 팀 블로그 개설 (티스토리)
+	- 지식 축적 및 공유
+	- https://team-handicap.tistory.com
+2. Git 공부 (Ha)
+	- https://youtu.be/Z9dvM7qgN9s 깃, 깃허브 제대로 배우기 (드림코딩 by 엘리)
+3. 팀 블로그에 Git 게시글 작성 (Seo)
+	- 깃 기본 개념
+
+
+
+* Assignment
+	- 게시글 하나 작성하기 (Seo: Git, Ha: Spring boot)
+	- 기능 정의 ERD까지... 
+
+다음 활동: 22-03-21(월) 20:30
+	- 기능정의 ERD 완성본 만들기
