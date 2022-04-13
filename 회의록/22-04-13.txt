@@ -1,0 +1,13 @@
+22-04-13-수
+14:00 - 18:00 (KST)
+
+1. Spring 공부 (Seo)
+	- 프로젝트 생성 (start.spring.io, Gradle, Java 11)
+	- 라이브러리 살펴보기 (Spring Web, Thymleaf, Spring Boot Starter)
+	- View 환경 설정
+	- Gradle 빌드
+2. AWS 공부 (Ha)
+	- AWS RDS 인스턴스 생성(MySQL)
+	- JAR 파일 빌드 후 서버 업로드 및 실행, 웹 페이지 hello world 실행 확인
+	- Websocket dependency 추가
+	- ppk 파일 유출로 인해, 서버 삭제후 재생성
