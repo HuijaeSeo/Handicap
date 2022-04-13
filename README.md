@@ -8,3 +8,4 @@
 - MariaDB, Spring_Boot, JS, React
 ## Putty
 ubuntu@15.164.211.171
+ㅋ
